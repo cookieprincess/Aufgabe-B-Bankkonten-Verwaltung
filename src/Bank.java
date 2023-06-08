@@ -1,3 +1,4 @@
+//student: uwxkz
 import java.util.Arrays;
 public class Bank{
     static int bankCode; //bankleitzahl
